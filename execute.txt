@@ -1,0 +1,1 @@
+C:\Users\raghu2013\AppData\Roaming\Python\Python310\Scripts\pyinstaller --noconfirm PatternGenerator.spec
